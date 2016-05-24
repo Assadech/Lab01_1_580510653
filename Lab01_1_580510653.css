@@ -1,0 +1,16 @@
+body{
+    background-color: lavender;
+    padding: 50px;
+}
+h1{
+    color: SlateGrey;
+    font-family:Candal;
+    box-shadow: 6px 6px 10px gray;
+}
+h3{
+    color: CadetBlue;
+    font-family:Oswald;
+}
+table{
+    font-size: 15px;
+}
